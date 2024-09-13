@@ -1,8 +1,3 @@
-import numpy as np
-import matplotlib.pyplot as plt
-from scipy.integrate import solve_ivp
-import streamlit as st
-
 # Streamlit App Title
 st.title('Interactive Simulation of the Moniac Model')
 
